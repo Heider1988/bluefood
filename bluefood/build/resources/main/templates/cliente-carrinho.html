@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org" lang="pt-br" layout:decorate="~{layout}"
+	th:with="link=@{/cliente/home}">
+<body>
+	<div layout:fragment="content">
+		<div id="mensagemDeErro" th:if="${msg != null}">
+			<span th:text="${msg}"></span>
+			<br />
+		</div>
+		<div>
+			<h1 th:text="!${carrinho.vazio()} ? 'SEU PEDIDO' : 'CARRINHO VÁZIO'"></h1>
+			<img th:if="${carrinho.restaurante != null}" th:src="@{/images/logotipo/} + ${carrinho.restaurante.logoTipo}"
+				id="imgRestauranteBusca" />
+		</div>
+		<br>
+		<br>
+		<div th:each="item : ${carrinho.itens}">
+			<span id="restauranteOpcaoTitulo" th:text="${item.itemCardapio.nome}"></span>
+			<br>
+			<span id="restauranteOpcaoTaxa" th:text="'Qtd: ' + ${item.quantidade}"></span>
+			<br>
+			<span id="restauranteOpcaoTaxa" th:text="${item.observacoes}"></span>
+			<br>
+			<span id="restauranteOpcaoTaxa" th:text="${#numbers.formatCurrency(item.preco)}"></span>
+			<br>
+			<br>
+			<input type="button" value="Remover"
+				th:onclick="'location.href=\'' + @{/cliente/carrinho/remover} + '?itemId=' + ${item.itemCardapio.id} + '\';'">
+		</div>
+		<br>
+		<br>
+		<div th:if="!${carrinho.vazio()}">
+			<div>
+				<span id="restauranteOpcaoTitulo"
+					th:text="'Taxa de entrega: ' + ${#numbers.formatCurrency(carrinho.restaurante.taxaEntrega)}"></span>
+				<br />
+				<span id="restauranteOpcaoTaxa"></span>
+			</div>
+			<br>
+			<br>
+			<div>
+				<span id="restauranteOpcaoTitulo">Total</span>
+				<br>
+				<span id="restauranteOpcaoTaxa" th:text="'Valor total: ' + ${#numbers.formatCurrency(carrinho.getPrecoTotal(true))}"></span>
+			</div>
+			<br>
+			<br>
+			<form method="post" th:action="@{/cliente/pagamento/pagar}">
+				<div>
+					<span id="restauranteOpcaoTitulo">Cartão de Crédito</span>
+					<br>
+					<input name="numCartao" type="text" id="inputLargo" onkeydown="return isNumberKey(event);">
+				</div>
+				<br>
+				<div>
+					<input type="submit" value="Enviar pedido">
+				</div>
+			</form>
+		</div>
+		<br />
+		<div>
+			<input type="button" value="Voltar" th:onclick="'location.href=\'' + @{/cliente/home} + '\';'" />
+		</div>
+	</div>
+</body>
+</html>

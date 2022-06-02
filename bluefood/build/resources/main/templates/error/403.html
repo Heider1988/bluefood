@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org" lang="pt-br" layout:decorate="~{layout}"
+	th:with="link=@{/cliente/home}">
+<body>
+	<div layout:fragment="content">
+		<div id="imagemDeErro">
+			<img th:src="@{/images/bf_erro.png}" />
+		</div>
+		<br />
+		<br />
+		<div id="mensagemDeErro">Acesso Negado!</div>
+	</div>
+</body>
+</html>

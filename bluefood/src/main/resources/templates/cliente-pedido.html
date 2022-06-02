@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org" lang="pt-br" layout:decorate="~{layout}"
+	th:with="link=@{/cliente/home}">
+<body>
+	<div layout:fragment="content">
+		<div>
+			<h1>SEU PEDIDO</h1>
+			<input type="submit" value="Refazer pedido" 
+			th:onclick="'location.href=\'' + @{/cliente/carrinho/refazerCarrinho} + '?pedidoId=' + ${pedido.id} + '\';'">
+		</div>
+		<div id="mensagemDeErro">
+			<span th:text="'STATUS:' + ${pedido.status.descricao}"></span>
+		</div>
+		<br>
+		<div>
+			<img th:src="@{/images/logotipo/} + ${pedido.restaurante.logoTipo}" id="imgRestauranteBusca">
+		</div>
+		<br>
+		<br>
+		<div th:each="item : ${pedido.itens}">
+			<span id="restauranteOpcaoTitulo" th:text="${item.itemCardapio.nome}"></span>
+			<br>
+			<span id="restauranteOpcaoTaxa" th:text="'QTD: ' + ${item.quantidade}"></span>
+			<br />
+			<span id="restauranteOpcaoTaxa" th:text="'OBSERVAÇÃO: ' + ${item.observacoes}"></span>
+			<br>
+			<span id="restauranteOpcaoTaxa" th:text="${#numbers.formatCurrency(item.preco)}"></span>
+		</div>
+		<br>
+		<br>
+		<div>
+			<span id="restauranteOpcaoTitulo" th:text="'TAXA DE ENTREGA: ' + ${#numbers.formatCurrency(pedido.taxaEntrega)}"></span>
+			<br>
+			<span id="restauranteOpcaoTitulo" th:text="'TOTAL: ' + ${#numbers.formatCurrency(pedido.total)}"></span>
+		</div>
+		<br>
+		<br>
+		<div>
+			<input type="button" value="Voltar" th:onclick="'location.href=\'' + @{/cliente/home} + '\';'" />
+		</div>
+	</div>
+</body>
+</html>
