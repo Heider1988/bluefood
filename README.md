@@ -41,7 +41,7 @@ Sistema onde Restaurantes e Clientes conseguem efetuar seus devidos cadastros pa
 
 <div align="center">
 
- GIF AQUI
+ ![](https://github.com/Heider1988/arquivos_imagens/blob/main/gif-bluefood.gif)
  
   </div>
 
@@ -72,4 +72,5 @@ Para compilar o projeto em sua máquina local:
    </br>
 <sub>Heider Oliveira</sub>
 </p>
+
 
