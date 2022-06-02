@@ -50,7 +50,9 @@ Sistema onde Restaurantes e Clientes conseguem efetuar seus devidos cadastros pa
 ## Ferramentas utilizadas
 
 <div align="center">
+
 ![](https://github.com/Heider1988/arquivos_imagens/blob/main/ferramantas-utilizidas-bluefood.png)
+
 </div>
 
 ###
