@@ -8,3 +8,20 @@ O sistema foi desenolvido através da linguagem Java com Spring Boot, Spring Sec
 O sistema está rodando no heroku como estivesse em produção.
 
 Link do sistema bluefood: https://bluefood2.herokuapp.com/login Link do módulo de pagamento caso queira testar via postman: https://sbpay1.herokuapp.com/sbpay/pay
+
+--------------
+
+## Índice 
+
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Badges](#badges)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Licença](#licença)
+* [Conclusão](#conclusão)
