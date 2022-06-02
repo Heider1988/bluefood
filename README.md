@@ -19,6 +19,8 @@
 <p align="justify">
 Sistema onde Restaurantes e Clientes conseguem efetuar seus devidos cadastros para atender as demandas conforme a necessidade. O sistema é parecido com o fluxo do  aplicativo Ifood. O cliente realiza um pedido e o restaurante recebe e atualiza o status conforme o pedido vai avançando.
  
+![](https://github.com/Heider1988/arquivos_imagens/blob/main/tela-login-bluefood.png)
+
 </p>
 
 
@@ -39,7 +41,7 @@ Sistema onde Restaurantes e Clientes conseguem efetuar seus devidos cadastros pa
 
 <div align="center">
 
-Colocar um GIF AQUI A RESPEITO DO PROJETO EM FUNCIONAMENTO
+![]([https://github.com/Heider1988/arquivos_imagens/blob/main/tela-login-bluefood.png](https://github.com/Heider1988/arquivos_imagens/blob/main/gif-bluefood.gif))
 
   </div>
 
@@ -52,7 +54,8 @@ COLOCAR AS IMAGENS DAS FERRAMENTAS
 
 ## Acesso ao projeto
 
-Você pode [acessar o projeto rodando no heroku]: https://bluefood2.herokuapp.com/
+Você pode acessar o projeto rodando no heroku: https://bluefood2.herokuapp.com/
+
 ## Abrir e rodar o projeto
 
 Para compilar o projeto em sua máquina local:
@@ -69,3 +72,4 @@ Para compilar o projeto em sua máquina local:
    </br>
 <sub>Heider Oliveira</sub>
 </p>
+
