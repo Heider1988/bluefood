@@ -33,7 +33,7 @@ Sistema onde Restaurantes e Clientes conseguem efetuar seus devidos cadastros pa
 
 :heavy_check_mark: `Funcionalidade 4:` Cliente poderá pagar pelo cartão de crédito e acompanhar o seu pedido em tempo real.
 
-:heavy_check_mark: `Funcionalidade 5:` O módulo "sbpay" que está na raiz do projeto é uma aplicação web service que pode ser instalado em qualquer servidor a parte. Serve apenas para emular o pagamento do cliente via cartão de crédito. Se o cartão começa com números 1111 será aprovado o pedido, se não haverá uma mensagem de retorno ao cliente que o pagamento não foi autorizado.
+:heavy_check_mark: `Funcionalidade 5:` O módulo "sbpay" que está na raiz do projeto é uma aplicação web service que pode ser instalado em qualquer servidor a parte. Serve apenas para emular o pagamento do cliente via cartão de crédito. Se o cartão começa com números 1111 será aprovado o pedido, caso contrário a aplicação enviará uma mensagem de retorno ao cliente informando que o pagamento não foi autorizado.
 
 ## Aplicação
 
