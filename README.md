@@ -42,13 +42,16 @@ Sistema onde Restaurantes e Clientes conseguem efetuar seus devidos cadastros pa
 <div align="center">
 
  ![](https://github.com/Heider1988/arquivos_imagens/blob/main/gif-bluefood.gif)
- 
-  </div>
+
+</div>
 
 ###
 
 ## Ferramentas utilizadas
-COLOCAR AS IMAGENS DAS FERRAMENTAS
+
+<div align="center">
+![](https://github.com/Heider1988/arquivos_imagens/blob/main/ferramantas-utilizidas-bluefood.png)
+</div>
 
 ###
 
