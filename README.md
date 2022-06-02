@@ -19,9 +19,7 @@
 <p align="justify">
 Sistema onde Restaurantes e Clientes conseguem efetuar seus devidos cadastros para atender as demandas conforme a necessidade. O sistema é parecido com o fluxo do  aplicativo Ifood. O cliente realiza um pedido e o restaurante recebe e atualiza o status conforme o pedido vai avançando.
  
-<div align="center">
-![Android Emulator](https://st2.depositphotos.com/6544740/9337/i/600/depositphotos_93376372-stock-photo-sunset-over-sea-pier.jpg)
-</div>
+![alt text](https://raw.githubusercontent.com/Heider1988/arquivos_imagens/tela-login-bluefood.png)
    
 </p>
 
