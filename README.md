@@ -19,7 +19,7 @@
 <p align="justify">
 Sistema onde Restaurantes e Clientes conseguem efetuar seus devidos cadastros para atender as demandas conforme a necessidade. O sistema é parecido com o fluxo do  aplicativo Ifood. O cliente realiza um pedido e o restaurante recebe e atualiza o status conforme o pedido vai avançando.
  
-![](https://github.com/Heider1988/arquivos_imagens/blob/main/tela-login-bluefood.png)
+![](https://raw.githubusercontent.com/Heider1988/arquivos_imagens/main/tela-login-bluefood.png?token=GHSAT0AAAAAABVERTCP62M4FXUQAQ4RKXRIYUY3ZXA)
 
 </p>
 
@@ -41,7 +41,7 @@ Sistema onde Restaurantes e Clientes conseguem efetuar seus devidos cadastros pa
 
 <div align="center">
 
- ![](https://github.com/Heider1988/arquivos_imagens/blob/main/gif-bluefood.gif)
+ ![](https://raw.githubusercontent.com/Heider1988/arquivos_imagens/main/gif-bluefood.gif?token=GHSAT0AAAAAABVERTCOWVZ7KK7OJJUFJXJ4YUY3ZEQ)
 
 </div>
 
