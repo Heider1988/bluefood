@@ -74,8 +74,8 @@ Para compilar o projeto em sua máquina local:
 ## Desenvolvedores
 <p>
 <img src="https://avatars.githubusercontent.com/u/33627744?v=4" width=115>
-   </br>
-<sub>Heider Oliveira</sub>
+<br>
+**Heider Oliveira** 
 </p>
 
 
