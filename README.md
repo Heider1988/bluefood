@@ -65,7 +65,7 @@ Você pode acessar o projeto rodando no heroku: https://bluefood2.herokuapp.com/
 
 Para compilar o projeto em sua máquina local:
 
-:heavy_check_mark: `Etapa 1:` Deve ter o Eclipse ou outra IDE da sua proferência instalada em sua máquina.
+:heavy_check_mark: `Etapa 1:` Deve ter o Eclipse ou outra IDE da sua preferência instalada em sua máquina.
 </br>
 :heavy_check_mark: `Etapa 2:` Banco de dados da sua preferência instalado. Já está adicionado ao gradle do projeto as depências do banco MySQL e Postgree. Se estiver comentado alguma dessa depência basta descomentar conforme a sua necessidade.
 </br>
