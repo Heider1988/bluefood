@@ -51,7 +51,7 @@ Sistema onde Restaurantes e Clientes conseguem efetuar seus devidos cadastros pa
 
 <div align="center">
 
-![](https://github.com/Heider1988/arquivos_imagens/blob/main/ferramantas-utilizidas-bluefood.png)
+![](https://raw.githubusercontent.com/Heider1988/arquivos_imagens/main/ferramantas-utilizidas-bluefood.png?token=GHSAT0AAAAAABVERTCOUL7SPTGC6W2U72UYYUY3X2Q)
 
 </div>
 
