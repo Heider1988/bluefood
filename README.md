@@ -83,21 +83,21 @@ Para compilar o projeto em sua máquina local:
 :heavy_check_mark: `Etapa 3:` Agora basta importar o projeto e alterar o login e senha de banco de dados que está no arquivo application-dev.properties.
 
 ## Desenvolvedores
-<p>
-<img src="https://avatars.githubusercontent.com/u/33627744?v=4" width=115>
-<br>
- *Heider Oliveira  
-</p>
-
 <div id="badges">
+ :heavy_check_mark: Heider Oliveira 
+ <br>
+  <img src="https://avatars.githubusercontent.com/u/33627744?v=4" width=130>
+ <br>
   <a target="_blank" href="https://www.linkedin.com/in/heider1988/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/ width="130">
   </a>
+ <br>
   <a target="_blank" href="https://www.instagram.com/heider.oliveira/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/ width="130">
   </a>
+ <br>
   <a target="_blank" href="https://twitter.com/heideroliver">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/ width="130">
   </a>
 </div>
 
