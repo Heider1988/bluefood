@@ -100,5 +100,3 @@ Para compilar o projeto em sua máquina local:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/ width="130">
   </a>
 </div>
-
-
