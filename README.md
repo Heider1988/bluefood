@@ -1,3 +1,7 @@
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
 ### Tópicos 
 
 - [Descrição do projeto](#descrição-do-projeto)
@@ -7,6 +11,8 @@
 - [Aplicação](#aplicação)
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
+
+- [Tecnologias usadas](#tech-utilizadas)
 
 - [Acesso ao projeto](#acesso-ao-projeto)
 
@@ -56,6 +62,13 @@ Sistema onde Restaurantes e Clientes conseguem efetuar seus devidos cadastros pa
 </div>
 
 ###
+
+## tech-utilizadas
+<div align="center">
+
+
+
+</div>
 
 ## Acesso ao projeto
 
