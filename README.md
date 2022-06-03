@@ -53,20 +53,23 @@ Sistema onde Restaurantes e Clientes conseguem efetuar seus devidos cadastros pa
 
 ###
 
-## Ferramentas utilizadas
+## ✔️ Ferramentas e tecnolgoias utilizadas
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/Heider1988/arquivos_imagens/main/ferramantas-utilizidas-bluefood.png?token=GHSAT0AAAAAABVERTCOUL7SPTGC6W2U72UYYUY3X2Q)
+- ``Java 11 como linguagem de programação no back-end``
+- ``Spring Boot como Framework na construção da aplicação``
+- ``Html, CSS, JS e Thymeleaf na parte do front-end``
+- ``Eclipse como IDE``
+- ``Postman para web service``
+- ``MySQL, PostgreSQL e H2 Database Engine como banco de dados``
+- ``JJUnit e Mockito para os testes``
+- ``AWS e Heroku para executar o deploy da aplicação``
 
 </div>
 
 ###
 
-## Tecnologias usadas
-<div align="center">
-
-</div>
 
 ## Acesso ao projeto
 
