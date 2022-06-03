@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=PROJETO%20CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
 ### Tópicos 
@@ -51,7 +51,7 @@ Sistema onde Restaurantes e Clientes conseguem efetuar seus devidos cadastros pa
 
 ###
 
-## ✔️ Ferramentas e tecnolgoias utilizadas
+## Ferramentas e tecnolgoias utilizadas
 
 - ``Java 11 como linguagem de programação no back-end``
 - ``Spring Boot como Framework na construção da aplicação``
