@@ -1,5 +1,5 @@
-<p align="center" width="500" height="600">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=PROJETO%20CONCLUIDO&color=GREEN&style=for-the-badge"/>
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=PROJETO%20CONCLUIDO&color=GREEN&style=for-the-badge" width="300" height="80"/>
 </p>
 
 ### Tópicos 
