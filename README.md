@@ -1,8 +1,8 @@
 <p align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" height="120"/>
  <br>
-<img src="http://img.shields.io/static/v1?label=STATUS&message=PROJETO%20CONCLUIDO&color=GREEN&style=for-the-badge" width="300" height="80"/>
+<img src="http://img.shields.io/static/v1?label=STATUS%20DO%20PROJETO&message=CONCLUIDO&color=GREEN&style=for-the-badge" width="300" height="100"/>
 </p>
 
 ### Tópicos 
