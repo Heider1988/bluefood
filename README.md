@@ -1,4 +1,4 @@
-<p align="center" style="font-size:150px">
+<p align="center" width="500" height="600">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=PROJETO%20CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
