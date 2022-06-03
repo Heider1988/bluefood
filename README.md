@@ -1,4 +1,7 @@
 <p align="center">
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ <br>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=PROJETO%20CONCLUIDO&color=GREEN&style=for-the-badge" width="300" height="80"/>
 </p>
 
