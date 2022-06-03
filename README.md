@@ -10,9 +10,7 @@
 
 - [Aplicação](#aplicação)
 
-- [Ferramentas e tecnolgoias utilizadas](#ferramentas-utilizadas)
-
-- [Tecnologias usadas](#tech-utilizadas)
+- [Ferramentas e tecnolgoias utilizadas](#ferramentas-e-tecnolgoias-utilizadas)
 
 - [Acesso ao projeto](#acesso-ao-projeto)
 
