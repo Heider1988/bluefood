@@ -63,10 +63,8 @@ Sistema onde Restaurantes e Clientes conseguem efetuar seus devidos cadastros pa
 
 ###
 
-## tech-utilizadas
+## Tecnologias usadas
 <div align="center">
-
-
 
 </div>
 
