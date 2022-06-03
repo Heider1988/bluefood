@@ -10,7 +10,7 @@
 
 - [Aplicação](#aplicação)
 
-- [Ferramentas utilizadas](#ferramentas-utilizadas)
+- [Ferramentas e tecnolgoias utilizadas](#ferramentas-utilizadas)
 
 - [Tecnologias usadas](#tech-utilizadas)
 
@@ -55,8 +55,6 @@ Sistema onde Restaurantes e Clientes conseguem efetuar seus devidos cadastros pa
 
 ## ✔️ Ferramentas e tecnolgoias utilizadas
 
-<div align="center">
-
 - ``Java 11 como linguagem de programação no back-end``
 - ``Spring Boot como Framework na construção da aplicação``
 - ``Html, CSS, JS e Thymeleaf na parte do front-end``
@@ -65,8 +63,6 @@ Sistema onde Restaurantes e Clientes conseguem efetuar seus devidos cadastros pa
 - ``MySQL, PostgreSQL e H2 Database Engine como banco de dados``
 - ``JJUnit e Mockito para os testes``
 - ``AWS e Heroku para executar o deploy da aplicação``
-
-</div>
 
 ###
 
