@@ -59,7 +59,7 @@ Sistema onde Restaurantes e Clientes conseguem efetuar seus devidos cadastros pa
 - ``Eclipse como IDE``
 - ``Postman para web service``
 - ``MySQL, PostgreSQL e H2 Database Engine como banco de dados``
-- ``JJUnit e Mockito para os testes``
+- ``JUnit e Mockito para os testes``
 - ``AWS e Heroku para executar o deploy da aplicação``
 
 ###
