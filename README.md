@@ -96,7 +96,7 @@ Para compilar o projeto em sua máquina local:
   <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/ width="130">
   </a>
  <br>
-  <a target="_blank" href="https://twitter.com/heideroliver">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/ width="130">
+  <a target="_blank" href="https://www.youtube.com/channel/UCAIx0AsetLKoPyyAGDTcZCQ">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/ width="130">
   </a>
 </div>
